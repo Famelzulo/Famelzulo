@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Java and Ract.
+- 🌱 I’m currently learning Java and React.
 - 💬 Ask me about  JavasCript.
 - 📫 How to reach me: ![Python]("https://www.linkedin.com/in/marionzuloagawebdeveloper/")
 
@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
