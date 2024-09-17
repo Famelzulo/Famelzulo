@@ -22,7 +22,18 @@
  ## :trophy: Languages and Tools: :robot:
 
 
-<img src="icons/HTML.svg" width="60px"><img src="hicons/CSS.svg" width="60px"><img src="icons/JavaScript.svg" width="60px"<img src="icons/React-Dark.svg" width="60px"><img src="icons/VueJS-Dark.svg" width="60px"><img src="icons/Java-Dark.svg" width="60px"><img src="icons/MySQL-Dark.svg" width="60px"><img src="icons/Git.svg" width="60px"><img src="icons/Github-Dark.svg" width="60px"><img src="icons/Jest.svg" width="60px"><img src="icons/Figma-Dark.svg="60px">
+<img src="icons/HTML.svg" width="60px">
+<img src="hicons/CSS.svg" width="60px">
+<img src="icons/JavaScript.svg" width="60px">
+<img src="icons/React-Dark.svg" width="60px">
+<img src="icons/VueJS-Dark.svg" width="60px">
+<img src="icons/Java-Dark.svg" width="60px">
+<img src="icons/MySQL-Dark.svg" width="60px">
+<img src="icons/Git.svg" width="60px">
+<img src="icons/Github-Dark.svg" width="60px">
+<img src="icons/Jest.svg" width="60px">
+<img src="icons/Figma-Dark.svg" width="60px">
+
 
 
 ## :mailbox: Get in touch: 💬
