@@ -22,8 +22,17 @@
  ## :trophy: Languages and Tools: :robot:
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AJavaScript-logo.png&psig=AOvVaw0e4_1tH9T2JpI5Ap709i3s&ust=1726657438092000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOj68qvqyYgDFQAAAAAdAAAAABAE" width="50px"> 
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-bootstrap.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-javascript-logo.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-nodejs.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-mongodb.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-firebase.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-flutter.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-php-logo.svg" width="50px">
+<img src="icons/HTML.svg" width="60px">
+<img src="hicons/CSS.svg" width="60px">
+<img src="icons/JavaScript.svg" width="60px"> 
+<img src="icons/React-Dark.svg" width="60px">
+<img src="icons/VueJS-Dark.svg" width="60px">
+<img src="icons/Java-Dark.svg" width="60px">
+<img src="icons/MySQL-Dark.svg" width="60px">
+<img src="icons/Git.svg" width="60px">
+<img src="icons/Github-Dark.svg" width="60px">
+<img src="icons/Jest.svg" width="60px">
+<img src="icons/Figma-Dark.svg="60px">
 
 
 ## :mailbox: Get in touch: 💬
@@ -33,7 +42,4 @@
 [<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-important-mail.svg" width="30px">](mailto:kumarvimal558@gmail.com)
 [<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-website.svg" width="30px">](https://vimal.letskhabar.com)
 
------
-Credits: [vimalverma558](https://github.com/vimalverma558)
 
-Last Edited on: 03/09/2020
