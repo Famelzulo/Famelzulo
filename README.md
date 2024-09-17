@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Famel Marion, I am a programmer graduated from Laboratory,
+- 👋 Hi there :)
+- I’m Famel Marion, I am a programmer graduated from Laboratory,
 - I have knowledge in HTML, Javascript, CSS, Java, Apex and use of the Salesforce platform.
 -  I also have communication skills, teamwork and great ability and adaptation to changes and new challenges.
 - 🌱 I’m currently learning Java and React
