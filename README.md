@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/marionzuloagawebdeveloper/"><img src="https://img.shields.io/badge/-Rafael%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marionzuloagawebdeveloper/"><img src="https://img.shields.io/badge/-FamelMarion%20LInkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="marionzuloagazapana@gmail.com"><img src="https://img.shields.io/badge/-famelzuloagazapana@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
