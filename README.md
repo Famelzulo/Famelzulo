@@ -2,7 +2,8 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
   <samp>
-    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Famel Maionand I'm a Web Developer  <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> to support open source. Student at IIIT Ranchi :india:
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Famel Marion and I'm a Web Developer  <a href="https://www.linkedin.com/in/marionzuloagawebdeveloper/">@Maionzuloagawebdeveloper:</a> * systems technique- UNSAAC - 2016
+    Graduated from Laboratoria 2024
   </samp>
 </p>
 
